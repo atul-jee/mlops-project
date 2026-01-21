@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: An MLOps project for productionizing models
+Author: Atul jee
+Author-email: Atul Jee <atul.jee2503@gmail.com>
+Dynamic: author
